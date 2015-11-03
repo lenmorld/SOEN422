@@ -193,3 +193,76 @@ ls
 cd ~
 ls
 python
+cd ~
+ls
+git
+ls
+nano blink.py
+python blink.py 
+nano blink.py
+python blink.py 
+nano blink.py
+python blink.py 
+nano blink.py
+python blink.py 
+nano blink.py
+python blink.py 
+nano blink.py
+python blink.py 
+nano blink.py
+python blink.py 
+cp blink.py pwm.py
+nano pwm.py 
+python pwm.py 
+nano pwm.py 
+python pwm.py 
+nano pwm.py 
+python pwm.py 
+python pwm.py 
+nano pwm.py 
+python pwm.py 
+nano pwm.py 
+python pwm.py 
+nano pwm.py 
+python pwm.py 
+python pwm.py 
+nano pwm.py 
+python pwm.py 
+nano pwm.py 
+python pwm.py 
+nano pwm.py 
+python pwm.py 
+nano pwm.py 
+nano pwm.py 
+python pwm.py 
+python pwm.py 
+nano pwm.py 
+python pwm.py 
+nano pwm.py 
+python pwm.py 
+python pwm.py 
+python pwm.py 
+nano pwm.py 
+nano pwm.py 
+python pwm.py 
+ls
+git init
+git add .
+git commit -m "lab5 with bash, python"
+git remote add origin https://github.com/lenmorld/SOEN422.git
+git push -u origin master
+export GIT_SSL_NO_VERIFY=1
+git push -u origin master
+python pwm.py 
+python pwm.py 
+nano blink.py 
+ls 
+nano pwm.py 
+python pwm.py 
+ls 
+ls
+nano blink.c
+ls
+cd /sys/devices/
+ls
+exit

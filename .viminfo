@@ -7,11 +7,17 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~Msle0~/\<period\>
+
 # Command Line History (newest to oldest):
+:q!
 :wq
 :q
+:wq!
 
 # Search String History (newest to oldest):
+? \<period\>
 
 # Expression History (newest to oldest):
 
@@ -20,18 +26,48 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+"1	LINE	0
+		itoa(buffer, intensity, 10);
+"2	LINE	0
+	char buffer[7];
+"3	LINE	0
+		fprintf(run, "1");
+"4	LINE	0
+	fprintf(run, "1");
+"5	LINE	0
+		fprintf(duty, "%d", intensity);
+"6	LINE	0
+		fprintf(run, "1");
 ""-	CHAR	0
-	N
+	f
 
 # File marks:
-'0  16  30  ~/blink.sh
-'1  6  5  ~/blink.sh
-'2  5  0  ~/blink.sh
-'3  20  3  ~/blink.sh
-'4  2  27  ~/blink.sh
-'5  1  0  ~/422_env.sh
+'0  1  0  /sys/devices/ocp.3/pwm_test_P9_14.22/period
+'1  1  0  /sys/devices/ocp.3/pwm_test_P9_14.22/duty
+'2  24  0  ~/pwm.c
+'3  26  17  ~/pwm.c
+'4  1  0  ~/pwm.c
+'5  25  17  ~/pwm.c
+'6  41  28  ~/pwm.c
+'7  40  17  ~/pwm.c
+'8  42  0  ~/pwm.c
+'9  42  12  ~/pwm.c
 
 # Jumplist (newest first):
+-'  1  0  /sys/devices/ocp.3/pwm_test_P9_14.22/period
+-'  1  0  /sys/devices/ocp.3/pwm_test_P9_14.22/duty
+-'  24  0  ~/pwm.c
+-'  1  0  ~/pwm.c
+-'  26  17  ~/pwm.c
+-'  25  17  ~/pwm.c
+-'  41  28  ~/pwm.c
+-'  40  17  ~/pwm.c
+-'  42  0  ~/pwm.c
+-'  34  0  ~/pwm.c
+-'  27  15  ~/pwm.c
+-'  1  0  ~/pwm.o
+-'  1  0  /sys/devices/ocp.3/pwm_test_P9_14.22/run
+-'  38  19  ~/pwm.c
 -'  16  30  ~/blink.sh
 -'  1  0  ~/blink.sh
 -'  6  5  ~/blink.sh
@@ -115,18 +151,58 @@
 -'  1  0  ~/422_env.sh
 -'  1  0  ~/422_env.sh
 -'  1  0  ~/422_env.sh
--'  1  0  ~/422_env.sh
--'  1  0  ~/422_env.sh
--'  1  0  ~/422_env.sh
--'  1  0  ~/422_env.sh
--'  1  0  ~/422_env.sh
--'  1  0  ~/422_env.sh
--'  1  0  ~/422_env.sh
--'  1  0  ~/422_env.sh
--'  1  0  ~/422_env.sh
--'  1  0  ~/422_env.sh
 
 # History of marks within files (newest to oldest):
+
+> /sys/devices/ocp.3/pwm_test_P9_14.22/period
+	"	1	0
+
+> /sys/devices/ocp.3/pwm_test_P9_14.22/duty
+	"	1	0
+
+> ~/pwm.c
+	"	24	0
+	^	26	18
+	.	26	0
+	+	43	0
+	+	26	18
+	+	43	0
+	+	27	0
+	+	28	0
+	+	35	20
+	+	36	22
+	+	39	2
+	+	40	31
+	+	38	19
+	+	40	23
+	+	27	22
+	+	26	18
+	+	29	0
+	+	30	0
+	+	42	17
+	+	40	29
+	+	42	12
+	+	42	0
+	+	40	5
+	+	30	15
+	+	40	26
+	+	40	17
+	+	30	0
+	+	40	17
+	+	32	0
+	+	31	14
+	+	40	34
+	+	41	28
+	+	25	18
+	+	26	0
+	+	27	0
+	+	26	0
+
+> ~/pwm.o
+	"	1	0
+
+> /sys/devices/ocp.3/pwm_test_P9_14.22/run
+	"	1	0
 
 > ~/blink.sh
 	"	16	30
