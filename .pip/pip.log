@@ -1,0 +1,74 @@
+------------------------------------------------------------
+/usr/bin/pip run on Tue Nov  3 18:20:30 2015
+Downloading/unpacking Adafruit-BBIO
+
+  Getting page http://pypi.python.org/simple/Adafruit_BBIO
+  URLs to search for versions for Adafruit-BBIO:
+  * http://pypi.python.org/simple/Adafruit_BBIO/
+  Getting page http://pypi.python.org/simple/Adafruit_BBIO/
+  Analyzing links from page https://pypi.python.org/simple/adafruit-bbio/
+    Found link https://pypi.python.org/packages/1b/75/9a27e57dc3b44fbc697e9763128450335c0e3c053dd903ea7ca953465b31/Adafruit_BBIO-0.0.4.tar.gz#md5=b066d50d00ce4762fe0250bf640e3fe8 (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.4
+    Found link https://pypi.python.org/packages/1e/60/b1130718c03d3e9edf213ba1eb6db49b042872f374efb30dfb2f6ee06b96/Adafruit_BBIO-0.0.16.tar.gz#md5=c74152ecc66b24c1c473cbbf82af8366 (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.16
+    Found link https://pypi.python.org/packages/25/65/9a8850fe5f2c232a321158971222747c62f6b841cf7d30abee98cb924002/Adafruit_BBIO-0.0.9.tar.gz#md5=674718d2b17ea7822047a1d80c11c9ce (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.9
+    Found link https://pypi.python.org/packages/2a/d2/a34d7b2aef36c36f04954e976cdf52abfd6a38e8be8788d6e8c08979de2b/Adafruit_BBIO-0.0.8.tar.gz#md5=3bcc2c1a40e7f55d5264791173c80113 (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.8
+    Found link https://pypi.python.org/packages/32/fb/19531f371adbf1cdc8b6459252d86f10f7c83b6e81f9aac37275df7b79ed/Adafruit_BBIO-0.0.30.tar.gz#md5=5f99f0caf52047ab3c9f8236cddaf8f1 (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.30
+    Found link https://pypi.python.org/packages/37/8b/31798f6cb8df317cfffe2b272bfbe1da2210321d986a18f29abe1e4a096e/Adafruit_BBIO-0.0.12.tar.gz#md5=3252fb7b1f4e454f9a9bbb8458df4d59 (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.12
+    Found link https://pypi.python.org/packages/47/17/9b049f9544961e912433e5b0fc660058edd087048979b4dde60e61986b3c/Adafruit_BBIO-0.0.15.tar.gz#md5=d064cfe187e43e68377d5cf16e3c15de (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.15
+    Found link https://pypi.python.org/packages/47/9b/f1e66a99449f14ca312650a203bb8055381b74c3cea0cfcfe7c1a4a7375b/Adafruit_BBIO-1.0.0.tar.gz#md5=952e1c7cb003255749385eccb28d323a (from https://pypi.python.org/simple/adafruit-bbio/), version: 1.0.0
+    Found link https://pypi.python.org/packages/48/93/5cfc5ffcad86be8e00d4796bf70dec484cc576344cef371af457e3aecf22/Adafruit_BBIO-0.0.7.tar.gz#md5=fe6ca683d2ca25e8656cc9276a873512 (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.7
+    Found link https://pypi.python.org/packages/85/6d/c54f43beb919cf75ebefc28dfd9809e8176f2906b9f95c1d5808430b78ac/Adafruit_BBIO-0.0.19.tar.gz#md5=49bf7f7eefeb20aa95b1ffed95b89727 (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.19
+    Found link https://pypi.python.org/packages/87/80/56da9e9b7595659a1fd1c2bc3a53b0f61019de52c96aeafdd47bf1646f95/Adafruit_BBIO-0.0.13.tar.gz#md5=cf1657d592712bc455160f61c615d090 (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.13
+    Found link https://pypi.python.org/packages/ac/49/8a1594ba68f7d84f851d64f71b6d8b1034d5b8040182d26f4273f8bd9879/Adafruit_BBIO-0.0.20.tar.gz#md5=94cd218a15ca7c474bc53c1a94d905ae (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.20
+    Found link https://pypi.python.org/packages/ad/79/77b14c2e092de857ce0072eaa06ef7995be2256f7136bfe7aefa2d26a368/Adafruit_BBIO-0.0.14.tar.gz#md5=306a60ca1eeee77db75807744dcb020c (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.14
+    Found link https://pypi.python.org/packages/c6/94/5a8d351d144bb10f8440985658eed5f2867712c92ffcaa2a1616c3f0f011/Adafruit_BBIO-0.0.17.tar.gz#md5=d96c8c59d7321513d477f5c0f9270dbb (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.17
+    Found link https://pypi.python.org/packages/c6/d6/003f14a5a52b035ed67222e7c15df0dbd856702b0c6d6cd2f7b463a22444/Adafruit_BBIO-0.0.11.tar.gz#md5=3f8d0e3f3776b06be0f3678b9560fc85 (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.11
+    Found link https://pypi.python.org/packages/c8/7a/39c1e55f84a3561a0bac7681ae16a8563f58472ec0a0e9c7434de1a7df89/Adafruit_BBIO-0.0.18.tar.gz#md5=a685dae202f93f6d42e5e7cb628afa67 (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.18
+    Found link https://pypi.python.org/packages/f2/41/93113ba2c3fb4b0ffa4675284e5172a35854d8e2cadb4f0354ca8a6be562/Adafruit_BBIO-0.0.10.tar.gz#md5=c7fbf4aa643d89b44757b2ea3bc1779c (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.10
+    Found link https://pypi.python.org/packages/ff/7f/062004af6f1904f6c8293a921907b3a53a01c7d11f2a23653ee2b288fd8f/Adafruit_BBIO-0.0.5.tar.gz#md5=0cffdf5f41b1344a02c7e185ea48e2c1 (from https://pypi.python.org/simple/adafruit-bbio/), version: 0.0.5
+  Using version 1.0.0 (newest of versions: 1.0.0, 0.0.30, 0.0.20, 0.0.19, 0.0.18, 0.0.17, 0.0.16, 0.0.15, 0.0.14, 0.0.13, 0.0.12, 0.0.11, 0.0.10, 0.0.9, 0.0.8, 0.0.7, 0.0.5, 0.0.4)
+  Downloading from URL https://pypi.python.org/packages/47/9b/f1e66a99449f14ca312650a203bb8055381b74c3cea0cfcfe7c1a4a7375b/Adafruit_BBIO-1.0.0.tar.gz#md5=952e1c7cb003255749385eccb28d323a (from https://pypi.python.org/simple/adafruit-bbio/)
+  Running setup.py egg_info for package Adafruit-BBIO
+
+    The required version of distribute (>=0.6.45) is not available,
+
+    and can't be installed while this script is running. Please
+
+    install a more recent version first, using
+
+    'easy_install -U distribute'.
+
+    
+
+    (Currently using distribute 0.6.24dev-r0 (/usr/lib/python2.7/dist-packages))
+
+    Complete output from command python setup.py egg_info:
+
+    The required version of distribute (>=0.6.45) is not available,
+
+and can't be installed while this script is running. Please
+
+install a more recent version first, using
+
+'easy_install -U distribute'.
+
+
+
+(Currently using distribute 0.6.24dev-r0 (/usr/lib/python2.7/dist-packages))
+
+----------------------------------------
+
+Command python setup.py egg_info failed with error code 2 in /home/debian/build/Adafruit-BBIO
+
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 104, in main
+    status = self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 245, in run
+    requirement_set.prepare_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 1009, in prepare_files
+    req_to_install.run_egg_info()
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 225, in run_egg_info
+    command_desc='python setup.py egg_info')
+  File "/usr/lib/python2.7/dist-packages/pip/__init__.py", line 256, in call_subprocess
+    % (command_desc, proc.returncode, cwd))
+InstallationError: Command python setup.py egg_info failed with error code 2 in /home/debian/build/Adafruit-BBIO
